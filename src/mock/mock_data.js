@@ -20,6 +20,20 @@ export const mockData = {
             description: "aistudio",
             icon: "https://i.namu.wiki/i/qG-Cu9pUrXSgFwWkNurDLqOnMtvD8Ca_RY-Bg0kz3I-4NphjwVwBIFW34vW8jQp9jZUyzVQvun7JGOePP_7dxLNjyUZUYzkrqphAG854_jJ-d1AaC0CquPynfktgcT0gD6hBdvG7v5BSwCivTSPf-A.svg"
           },
+                    {
+            id: "immersivetranslate",
+            name: "沉浸式翻译",
+            url: "https://app.immersivetranslate.com/",
+            description: "沉浸式翻译",
+            icon: "https://app-static.immersivetranslate.com/assets/logo.svg"
+          },
+                              {
+            id: "huggingface",
+            name: "huggingface",
+            url: "https://huggingface.co/",
+            description: "抱脸",
+            icon: "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+          },
           {
             id: "github",
             name: "GitHub",
