@@ -14,11 +14,11 @@ export const mockData = {
             icon: "https://linux.do/uploads/default/optimized/3X/7/d/7de31932a4fd533496cfe35979a4d9d995bb5c63_2_180x180.png"
           },
           {
-            id: "curlconverter",
-            name: "curl converter",
-            url: "https://curlconverter.com/",
-            description: "curl命令转换工具",
-            icon: "https://curlconverter.com/favicon.ico"
+            id: "aistudio",
+            name: "aistudio",
+            url: "https://aistudio.google.com/",
+            description: "aistudio",
+            icon: "https://i.namu.wiki/i/qG-Cu9pUrXSgFwWkNurDLqOnMtvD8Ca_RY-Bg0kz3I-4NphjwVwBIFW34vW8jQp9jZUyzVQvun7JGOePP_7dxLNjyUZUYzkrqphAG854_jJ-d1AaC0CquPynfktgcT0gD6hBdvG7v5BSwCivTSPf-A.svg"
           },
           {
             id: "github",
