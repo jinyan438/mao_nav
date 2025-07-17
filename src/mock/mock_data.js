@@ -439,38 +439,38 @@ export const mockData = {
         ]
       },
       {
-        id: "office",
-        name: "办公协作",
-        icon: "💼",
+        id: "png",
+        name: "图站",
+        icon: "🖼️",
         order: 9,
         sites: [
           {
-            id: "notion",
-            name: "Notion",
-            url: "https://www.notion.so",
-            description: "全能工作空间",
-            icon: "https://www.notion.so/favicon.ico"
+            id: "pinterest",
+            name: "pinterest",
+            url: "https://jp.pinterest.com/",
+            description: "pinterest",
+            icon: "https://img.freepik.com/premium-vector/vector-logo-pinterest-icon-logotype-vector-social-media-icon_901408-459.jpg"
           },
-          {
-            id: "slack",
-            name: "Slack",
-            url: "https://slack.com",
-            description: "团队协作工具",
-            icon: "https://slack.com/favicon.ico"
+                    {
+            id: "yande.re",
+            name: "yande.re",
+            url: "https://yande.re/",
+            description: "yande.re",
+            icon: "https://image.winudf.com/v2/image/bW9lLnl1a2lzb3JhLnlhbmRlcmVfaWNvbl8wXzJhOGE0NTA1/icon.png?w=360&fakeurl=1"
           },
-          {
-            id: "trello",
-            name: "Trello",
-            url: "https://trello.com",
-            description: "项目管理工具",
-            icon: "https://trello.com/favicon.ico"
+                              {
+            id: "Danbooru",
+            name: "Danbooru",
+            url: "https://safebooru.donmai.us",
+            description: "Danbooru",
+            icon: "https://safebooru.donmai.us/packs/static/danbooru-logo-128x128-ea111b6658173e847734.png"
           },
-          {
-            id: "feishu",
-            name: "飞书",
-            url: "https://www.feishu.cn",
-            description: "企业协作平台",
-            icon: "https://www.feishu.cn/favicon.ico"
+                                        {
+            id: "Danbooru",
+            name: "Danbooru",
+            url: "https://safebooru.donmai.us",
+            description: "Danbooru",
+            icon: "https://safebooru.donmai.us/packs/static/danbooru-logo-128x128-ea111b6658173e847734.png"
           }
         ]
       }
