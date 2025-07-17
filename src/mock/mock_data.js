@@ -33,7 +33,10 @@ export const mockData = {
             url: "https://safebooru.donmai.us",
             description: "Danbooru",
             icon: "https://safebooru.donmai.us/packs/static/danbooru-logo-128x128-ea111b6658173e847734.png"
-          },
+          }
+
+        ]
+      },
       {
         id: "my-favorites",
         name: "我的常用",
@@ -473,9 +476,7 @@ export const mockData = {
         ]
       }
       
-                                      
-        ]
-      }
+
     ],
     title: "牛牛导航"
   }
